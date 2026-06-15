@@ -16,27 +16,10 @@
   <value name="listACL">Default</value>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build"></value>
-  <value name="description"></value>
+  <null name="build"/>
+  <null name="description"/>
   <value name="created_date">20-05-2026 08:20:30 GMT</value>
-  <array name="extendedProperties" type="record" depth="1">
-    <record javaclass="com.wm.util.Values">
-      <value name="key">displayName</value>
-      <value name="value"></value>
-    </record>
-    <record javaclass="com.wm.util.Values">
-      <value name="key">trusted</value>
-      <value name="value">no</value>
-    </record>
-    <record javaclass="com.wm.util.Values">
-      <value name="key">status</value>
-      <value name="value">Development</value>
-    </record>
-    <record javaclass="com.wm.util.Values">
-      <value name="key">tags</value>
-      <value name="value"></value>
-    </record>
-  </array>
+  <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">false</value>
 </Values>
