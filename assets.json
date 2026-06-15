@@ -1,0 +1,1 @@
+{"MyTests.services:selectEmployees":{"references":"[ref=MyTests.jdbc:MySqlConn,path=Adapter Connection Data]","subType":"AdapterService/unknown","type":"service"},"MyTests.jdbc:MySqlConn":{"subType":"unknown","type":"ConnectionData"}}
